@@ -9,7 +9,7 @@ with challenging skin lesions appearances such as low contrast between healthy a
 It also addresses issues with multi-size, multi-scaleand multi-resolution skin lesion images. The deep convolutional network also 
 adopts a reduced-size networkwith just five levels of encoding-decoding network. 
 
-Credits:  
+References:  
  1- Local Binary Convolutional Neural Networks, Felix Juefei-Xu, Vishnu Naresh Boddeti, Marios Savvides; 
     Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 19-28.
     
