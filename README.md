@@ -1,6 +1,6 @@
 # Skin-Lesion-Segmentation-LBCDN
 
-The proposed framework employs the local binary convolution on U-Net architectureinstead of the standard convolution in order to 
+The proposed framework employs the local binary convolution on U-Net architecture instead of the standard convolution in order to 
 reduced-size deep convolutional encoder-decoder network thatadopts loss function for robust segmentation. The proposed framework 
 replaced the encoder part in U-net byLBCNN layers. The approach automatically learns and segments complex features of skin lesion 
 images. Theencoder stage learns the contextual information by extracting discriminative features while the decoder stagecaptures 
