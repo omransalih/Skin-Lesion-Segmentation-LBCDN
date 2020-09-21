@@ -9,7 +9,7 @@ with challenging skin lesions appearances such as low contrast between healthy a
 It also addresses issues with multi-size, multi-scaleand multi-resolution skin lesion images. The deep convolutional network also 
 adopts a reduced-size networkwith just five levels of encoding-decoding network. 
 
- The proposed model records higher accuracy percentage and Jaccard index score of $97.09\%$ and $88.43\%$ on ISIC dataset respectivelly. 
+ The proposed model records higher accuracy percentage and Jaccard index score of $97.09\%$ and $88.43\%$ on ISIC-2018 dataset respectively. 
 
 References:  
  1- Local Binary Convolutional Neural Networks, Felix Juefei-Xu, Vishnu Naresh Boddeti, Marios Savvides; 
