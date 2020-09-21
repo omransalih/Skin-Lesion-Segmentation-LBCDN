@@ -8,3 +8,10 @@ the lesion boundaries of the skin images. This addresses the issues with encoder
 with challenging skin lesions appearances such as low contrast between healthy and unhealthy tissues and fine grained variability. 
 It also addresses issues with multi-size, multi-scaleand multi-resolution skin lesion images. The deep convolutional network also 
 adopts a reduced-size networkwith just five levels of encoding-decoding network. 
+
+Credits:  
+ 1- Local Binary Convolutional Neural Networks, Felix Juefei-Xu, Vishnu Naresh Boddeti, Marios Savvides; 
+    Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017, pp. 19-28.
+    
+ 2- U-net: Convolutional networks for biomedical image segmentation. Ronneberger O, Fischer P, Brox T. In 
+    International Conference on Medical image computing and computer-assisted intervention 2015 Oct 5 (pp. 234-241). Springer, Cham.
